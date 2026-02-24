@@ -1,12 +1,12 @@
-# Donor Retention & Campaign Targeting Analysis
+# (Full step by step in wiki)
 
-Title: Donor Retention & Campaign Targeting Analysis
+## Title: Donor Retention & Campaign Targeting Analysis
 
-Date: February 2026
+## Date: February 2026
 
-Prepared for: Nonprofit Development & Executive Leadership
+## Prepared for: Nonprofit Development & Executive Leadership
 
-Prepared by: Luke Sherwin
+## Prepared by: Luke Sherwin
 
 ### Executive Summary:
 
