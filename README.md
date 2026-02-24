@@ -5,7 +5,7 @@ Date: February 2026
 Prepared for: Nonprofit Development & Executive Leadership
 Prepared by: Luke Sherwin
 
-###Executive Summary:
+### Executive Summary:
 
 To protect revenue stability and strengthen donor retention, I analyzed 6 fiscal years of giving data across 21,433 confirmed donors. The analysis identifies 5,947 donors requiring immediate attention across three high-impact campaign segments.
 The most urgent risk is 1,357 high-value donors currently lapsing, averaging $6,642 in lifetime giving. Additionally, 4,345 recently lapsed donors represent $15.2 million in historical giving and strong reactivation potential.
