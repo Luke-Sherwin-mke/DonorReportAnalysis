@@ -1,21 +1,25 @@
-# DonorReportAnalysis
+# Donor Retention & Campaign Targeting Analysis
 
 Title: Donor Retention & Campaign Targeting Analysis
+
 Date: February 2026
+
 Prepared for: Nonprofit Development & Executive Leadership
+
 Prepared by: Luke Sherwin
 
 ### Executive Summary:
 
 To protect revenue stability and strengthen donor retention, I analyzed 6 fiscal years of giving data across 21,433 confirmed donors. The analysis identifies 5,947 donors requiring immediate attention across three high-impact campaign segments.
 The most urgent risk is 1,357 high-value donors currently lapsing, averaging $6,642 in lifetime giving. Additionally, 4,345 recently lapsed donors represent $15.2 million in historical giving and strong reactivation potential.
+
 I recommend a three-tier campaign strategy:
 Immediate personal outreach to lapsing top donors
 Targeted re-engagement campaigns for recently lapsed donors
 White-glove stewardship for active major donors
 This structured segmentation enables focused outreach, protects high-value relationships, and prioritizes revenue retention efforts.
 
-Business Task & Objective:
+### Business Task & Objective:
 The organization requires a data-driven system to identify which donors are lapsing and which donors represent the highest lifetime value.
 The objective of this analysis is to:
 Identify lapsed donors requiring re-engagement
@@ -23,15 +27,13 @@ Identify top donors requiring retention prioritization
 Quantify revenue at risk
 Create actionable donor campaign lists
 
-
-
-Data Source:
+### Data Source:
 Kaggle fundraising dataset:
 Donor dataset: 34,508 rows (21,433 confirmed donors after cleaning)
 6 fiscal years of giving history
 $81.5 million total lifetime giving
 
-Data Cleaning:
+### Data Cleaning:
 Uploaded datasets to Google BigQuery via Google Cloud Storage
 Cleaned donor dataset:
 Removed non-confirmed donors
@@ -41,7 +43,7 @@ Cast giving fields to NUMERIC
 Removed unnecessary columns
 Validated total donation volume and row counts
 
-Analysis:
+### Analysis:
 Lapse Definition:
 A donor is considered lapsed if:
 No giving in the current fiscal year
@@ -51,7 +53,9 @@ Top donors are defined as:
 Top 10% by lifetime giving using PERCENT_RANK()
 Scored on recency, frequency, and average annual giving
 
-Visualizations:
+### Visualizations:
+
+<img width="899" height="699" alt="Dashboard 1" src="https://github.com/user-attachments/assets/06935374-bd8b-46a5-b971-5f709629e924" />
 
 
 Key Findings:
@@ -65,7 +69,7 @@ Avg annual giving: $17,783
 Total donors requiring immediate strategic attention: 5,947
 
 
-Recommendations:
+### Recommendations:
 Urgent Rescue Campaign — Top Donors Currently Lapsing
 Donors: 1,357
 Average Lifetime Giving: $6,642
@@ -95,7 +99,8 @@ Rationale:
 These donors represent long-term revenue stability.
 Expected Impact:
 Strengthened donor loyalty and reduced future attrition risk.
-Impact:
+
+### Impact:
 This segmentation model transforms raw donor data into a prioritized action framework.
 Rather than treating all donors equally, the organization can now:
 Act immediately on high-risk, high-value donors
