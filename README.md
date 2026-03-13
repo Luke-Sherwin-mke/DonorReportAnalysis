@@ -110,4 +110,4 @@ The result is a structured, scalable donor retention strategy grounded in data.
 
 [Executive report](https://docs.google.com/document/d/12AXiR3UtQqRwkn58GyrlUImPw5M_02NM7vwBHbyzug4/edit?usp=sharing)
 
-[Presentation](https://docs.google.com/presentation/d/1pngrDJaUZvYRtxoNaRnwOIetVRvc4c-vVGi38CaaLOI/edit?usp=sharing)
+[Presentation](https://docs.google.com/presentation/d/19t5pw4FIYFQWeOcB9VIM0LuMLasIGbhIVbhqPxkKnto/edit?usp=sharing)
